@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.studyplanner.app-mergeDebugResources-51:/layout/item_task.xml",
+        "source": "com.studyplanner.app-main-54:/layout/item_task.xml"
+    },
+    {
+        "merged": "com.studyplanner.app-mergeDebugResources-51:/layout/activity_all_tasks.xml",
+        "source": "com.studyplanner.app-main-54:/layout/activity_all_tasks.xml"
+    },
+    {
+        "merged": "com.studyplanner.app-mergeDebugResources-51:/layout/activity_add_task.xml",
+        "source": "com.studyplanner.app-main-54:/layout/activity_add_task.xml"
+    },
+    {
+        "merged": "com.studyplanner.app-mergeDebugResources-51:/layout/item_schedule.xml",
+        "source": "com.studyplanner.app-main-54:/layout/item_schedule.xml"
+    },
+    {
+        "merged": "com.studyplanner.app-mergeDebugResources-51:/layout/activity_splash.xml",
+        "source": "com.studyplanner.app-main-54:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.studyplanner.app-mergeDebugResources-51:/layout/activity_timetable.xml",
+        "source": "com.studyplanner.app-main-54:/layout/activity_timetable.xml"
+    },
+    {
+        "merged": "com.studyplanner.app-mergeDebugResources-51:/layout/item_dropdown.xml",
+        "source": "com.studyplanner.app-main-54:/layout/item_dropdown.xml"
+    },
+    {
+        "merged": "com.studyplanner.app-mergeDebugResources-51:/layout/activity_dashboard.xml",
+        "source": "com.studyplanner.app-main-54:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.studyplanner.app-mergeDebugResources-51:/layout/item_day_header.xml",
+        "source": "com.studyplanner.app-main-54:/layout/item_day_header.xml"
+    }
+]

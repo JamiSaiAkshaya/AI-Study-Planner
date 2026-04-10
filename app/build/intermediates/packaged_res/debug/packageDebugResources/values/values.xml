@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="accent">#FF6F00</color>
+    <color name="background">#F5F7FA</color>
+    <color name="black">#FF000000</color>
+    <color name="color_assignment">#FF9800</color>
+    <color name="color_coding">#2196F3</color>
+    <color name="color_exam">#F44336</color>
+    <color name="color_project">#4CAF50</color>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_task">Add Task</string>
+    <string name="all_tasks">All Tasks</string>
+    <string name="app_name">AI Study Planner</string>
+    <string name="completed">Completed</string>
+    <string name="gcm_defaultSenderId" translatable="false">1039436565825</string>
+    <string name="google_api_key" translatable="false">AIzaSyByr0-wxL-7PK24OL-edRUBHaovcKIcQ6o</string>
+    <string name="google_app_id" translatable="false">1:1039436565825:android:4e7da296a2f8400311e5c0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyByr0-wxL-7PK24OL-edRUBHaovcKIcQ6o</string>
+    <string name="google_storage_bucket" translatable="false">ai-study-planner-45b04.firebasestorage.app</string>
+    <string name="no_schedule">No timetable generated yet.\nAdd some tasks to get started!</string>
+    <string name="no_tasks">No tasks yet.\nTap + to add your first task!</string>
+    <string name="no_tasks_today">No tasks scheduled for today.\nTap + to add a task!</string>
+    <string name="pending">Pending</string>
+    <string name="project_id" translatable="false">ai-study-planner-45b04</string>
+    <string name="regenerate">Regenerate</string>
+    <string name="view_timetable">View Full Timetable</string>
+    <style name="Theme.AIStudyPlanner" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/primary_dark</item>
+    </style>
+    <style name="Theme.AIStudyPlanner.NoActionBar" parent="Theme.AIStudyPlanner">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.AIStudyPlanner.Splash" parent="Theme.AIStudyPlanner">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
