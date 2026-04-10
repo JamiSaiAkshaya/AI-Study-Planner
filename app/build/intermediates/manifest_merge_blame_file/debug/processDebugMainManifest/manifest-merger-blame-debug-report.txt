@@ -9,14 +9,14 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
-12-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:6:5-77
-12-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:6:22-74
+12-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:6:5-77
+12-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:6:22-74
 13    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-13-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:7:5-81
-13-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:7:22-78
+13-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:7:22-78
 14
 15    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 16    <!-- <uses-sdk android:minSdkVersion="14" /> -->
@@ -54,80 +54,80 @@
 29-->[androidx.core:core:1.12.0] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\d5de695c54ae1f3b24c9e7f6d5f21794\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
 30
 31    <application
-31-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:9:5-51:19
+31-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:9:5-51:19
 32        android:allowBackup="true"
-32-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:10:9-35
+32-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:10:9-35
 33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 33-->[androidx.core:core:1.12.0] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\d5de695c54ae1f3b24c9e7f6d5f21794\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 34        android:dataExtractionRules="@xml/data_extraction_rules"
-34-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:11:9-65
+34-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:11:9-65
 35        android:debuggable="true"
 36        android:extractNativeLibs="false"
 37        android:fullBackupContent="@xml/backup_rules"
-37-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:12:9-54
+37-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:12:9-54
 38        android:icon="@mipmap/ic_launcher"
-38-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:13:9-43
+38-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:13:9-43
 39        android:label="@string/app_name"
-39-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:14:9-41
+39-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:14:9-41
 40        android:roundIcon="@mipmap/ic_launcher_round"
-40-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:15:9-54
+40-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:15:9-54
 41        android:supportsRtl="true"
-41-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:16:9-35
+41-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:16:9-35
 42        android:testOnly="true"
 43        android:theme="@style/Theme.AIStudyPlanner" >
-43-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:17:9-52
+43-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:17:9-52
 44        <activity
-44-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:20:9-28:20
+44-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:20:9-28:20
 45            android:name="com.studyplanner.app.ui.activities.SplashActivity"
-45-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:21:13-57
+45-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:21:13-57
 46            android:exported="true"
-46-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:22:13-36
+46-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:22:13-36
 47            android:theme="@style/Theme.AIStudyPlanner.Splash" >
-47-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:23:13-63
+47-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:23:13-63
 48            <intent-filter>
-48-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:24:13-27:29
+48-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:24:13-27:29
 49                <action android:name="android.intent.action.MAIN" />
-49-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:25:17-69
-49-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:25:25-66
+49-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:25:17-69
+49-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:25:25-66
 50
 51                <category android:name="android.intent.category.LAUNCHER" />
-51-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:26:17-77
-51-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:26:27-74
+51-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:26:17-77
+51-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:26:27-74
 52            </intent-filter>
 53        </activity>
 54        <activity
-54-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:30:9-32:40
+54-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:30:9-32:40
 55            android:name="com.studyplanner.app.ui.activities.DashboardActivity"
-55-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:31:13-60
+55-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:31:13-60
 56            android:exported="false" />
-56-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:32:13-37
+56-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:32:13-37
 57        <activity
-57-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:34:9-37:58
+57-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:34:9-37:58
 58            android:name="com.studyplanner.app.ui.activities.AddTaskActivity"
-58-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:35:13-58
+58-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:35:13-58
 59            android:exported="false"
-59-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:36:13-37
+59-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:36:13-37
 60            android:windowSoftInputMode="adjustResize" />
-60-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:37:13-55
+60-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:37:13-55
 61        <activity
-61-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:39:9-41:40
+61-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:39:9-41:40
 62            android:name="com.studyplanner.app.ui.activities.TimetableActivity"
-62-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:40:13-60
+62-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:40:13-60
 63            android:exported="false" />
-63-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:41:13-37
+63-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:41:13-37
 64        <activity
-64-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:43:9-45:40
+64-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:43:9-45:40
 65            android:name="com.studyplanner.app.ui.activities.AllTasksActivity"
-65-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:44:13-59
+65-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:44:13-59
 66            android:exported="false" />
-66-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:45:13-37
+66-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:45:13-37
 67
 68        <receiver
-68-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:47:9-49:40
+68-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:47:9-49:40
 69            android:name="com.studyplanner.app.notifications.DeadlineReceiver"
-69-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:48:13-59
+69-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:48:13-59
 70            android:exported="false" />
-70-->C:\Users\JAMI SAI AKSHAYA\AI-Study-Planner\app\src\main\AndroidManifest.xml:49:13-37
+70-->C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:49:13-37
 71
 72        <service
 72-->[com.google.firebase:firebase-analytics-ktx:21.5.0] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\86da4b2b327c7a94fd3944a80c88530f\transformed\jetified-firebase-analytics-ktx-21.5.0\AndroidManifest.xml:8:9-14:19
