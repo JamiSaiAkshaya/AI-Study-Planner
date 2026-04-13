@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:2:1-53:12
-INJECTED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:2:1-53:12
+ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:2:1-60:12
+INJECTED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:2:1-60:12
 MERGED from [androidx.databinding:viewbinding:8.13.2] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\210145206f251f880351830b5b0b266e\transformed\jetified-viewbinding-8.13.2\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\006169f691c834b860c3b89bff217191\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\874f62ed42cc115b08c78f20ecc3d8c6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
@@ -124,9 +124,13 @@ MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\JAMI SAI AKSHAYA\.gradle
 MERGED from [androidx.work:work-runtime:2.9.0] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\6884bdab1f917d0145d6210159deeb1f\transformed\work-runtime-2.9.0\AndroidManifest.xml:25:5-81
 	android:name
 		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:8:22-76
 application
-ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:9:5-51:19
-INJECTED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:9:5-51:19
+ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:10:5-58:19
+INJECTED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:10:5-58:19
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\006169f691c834b860c3b89bff217191\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.11.0] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\006169f691c834b860c3b89bff217191\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\874f62ed42cc115b08c78f20ecc3d8c6\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -194,73 +198,85 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\JAMI SAI AKSHAYA\.
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\d5de695c54ae1f3b24c9e7f6d5f21794\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:14:9-41
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:15:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:13:9-54
 	android:roundIcon
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:15:9-54
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:16:9-54
 	tools:targetApi
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:18:9-29
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:19:9-29
 	android:icon
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:13:9-43
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:17:9-52
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:18:9-52
 	android:dataExtractionRules
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:11:9-65
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:12:9-65
 activity#com.studyplanner.app.ui.activities.SplashActivity
-ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:20:9-28:20
+ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:21:9-29:20
 	android:exported
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:22:13-36
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:23:13-36
 	android:theme
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:23:13-63
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:24:13-63
 	android:name
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:21:13-57
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:22:13-57
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:24:13-27:29
+ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:25:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:25:17-69
+ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:25:25-66
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:27:27-74
 activity#com.studyplanner.app.ui.activities.DashboardActivity
-ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:30:9-32:40
+ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:31:9-33:40
 	android:exported
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:32:13-37
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:33:13-37
 	android:name
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:31:13-60
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:32:13-60
 activity#com.studyplanner.app.ui.activities.AddTaskActivity
-ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:34:9-37:58
+ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:35:9-39:58
 	android:windowSoftInputMode
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:37:13-55
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:39:13-55
 	android:exported
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:36:13-37
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:38:13-37
+	android:theme
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:37:13-62
 	android:name
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:35:13-58
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:36:13-58
 activity#com.studyplanner.app.ui.activities.TimetableActivity
-ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:39:9-41:40
+ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:41:9-44:40
 	android:exported
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:41:13-37
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:44:13-37
+	android:theme
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:43:13-62
 	android:name
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:40:13-60
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:42:13-60
 activity#com.studyplanner.app.ui.activities.AllTasksActivity
-ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:43:9-45:40
-	android:exported
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:45:13-37
-	android:name
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:44:13-59
-receiver#com.studyplanner.app.notifications.DeadlineReceiver
-ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:47:9-49:40
+ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:46:9-49:40
 	android:exported
 		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:49:13-37
+	android:theme
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:48:13-62
 	android:name
-		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:48:13-59
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:47:13-59
+receiver#com.studyplanner.app.notifications.DeadlineReceiver
+ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:51:9-56:20
+	android:exported
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:51:19-65
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:53:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:54:17-78
+	android:name
+		ADDED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml:54:25-76
 uses-sdk
 INJECTED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\JAMI SAI AKSHAYA\AndroidStudioProjects\AI-Study-Planner\app\src\main\AndroidManifest.xml
@@ -801,10 +817,6 @@ ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\JAMI SAI AKSHAYA\.gradle\
 		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\6884bdab1f917d0145d6210159deeb1f\transformed\work-runtime-2.9.0\AndroidManifest.xml:111:13-88
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
 ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\6884bdab1f917d0145d6210159deeb1f\transformed\work-runtime-2.9.0\AndroidManifest.xml:116:13-120:29
-action#android.intent.action.BOOT_COMPLETED
-ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\6884bdab1f917d0145d6210159deeb1f\transformed\work-runtime-2.9.0\AndroidManifest.xml:117:17-79
-	android:name
-		ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\6884bdab1f917d0145d6210159deeb1f\transformed\work-runtime-2.9.0\AndroidManifest.xml:117:25-76
 action#android.intent.action.TIME_SET
 ADDED from [androidx.work:work-runtime:2.9.0] C:\Users\JAMI SAI AKSHAYA\.gradle\caches\8.13\transforms\6884bdab1f917d0145d6210159deeb1f\transformed\work-runtime-2.9.0\AndroidManifest.xml:118:17-73
 	android:name

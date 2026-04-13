@@ -4613,6 +4613,7 @@ style TextAppearance_Widget_AppCompat_Toolbar_Subtitle
 style TextAppearance_Widget_AppCompat_Toolbar_Title
 style Theme_AIStudyPlanner
 style Theme_AIStudyPlanner_NoActionBar
+style Theme_AIStudyPlanner_NoBar
 style Theme_AIStudyPlanner_Splash
 style Theme_AppCompat
 style Theme_AppCompat_CompactMenu

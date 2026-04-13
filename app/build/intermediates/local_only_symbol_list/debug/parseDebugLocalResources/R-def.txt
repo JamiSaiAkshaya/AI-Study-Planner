@@ -90,6 +90,7 @@ string regenerate
 string view_timetable
 style Theme.AIStudyPlanner
 style Theme.AIStudyPlanner.NoActionBar
+style Theme.AIStudyPlanner.NoBar
 style Theme.AIStudyPlanner.Splash
 xml backup_rules
 xml data_extraction_rules

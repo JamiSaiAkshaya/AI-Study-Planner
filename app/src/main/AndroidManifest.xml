@@ -5,6 +5,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
 
     <application
         android:allowBackup="true"
@@ -33,20 +34,26 @@
 
         <activity
             android:name=".ui.activities.AddTaskActivity"
+            android:theme="@style/Theme.AIStudyPlanner.NoBar"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
 
         <activity
             android:name=".ui.activities.TimetableActivity"
+            android:theme="@style/Theme.AIStudyPlanner.NoBar"
             android:exported="false" />
 
         <activity
             android:name=".ui.activities.AllTasksActivity"
+            android:theme="@style/Theme.AIStudyPlanner.NoBar"
             android:exported="false" />
 
-        <receiver
-            android:name=".notifications.DeadlineReceiver"
-            android:exported="false" />
+        <receiver android:name=".notifications.DeadlineReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
 
     </application>
 

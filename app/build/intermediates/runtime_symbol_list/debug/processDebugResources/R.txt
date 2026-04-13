@@ -4612,6 +4612,7 @@ int style TextAppearance_Widget_AppCompat_Toolbar_Subtitle 0x7f110209
 int style TextAppearance_Widget_AppCompat_Toolbar_Title 0x7f11020a
 int style Theme_AIStudyPlanner 0x7f11020b
 int style Theme_AIStudyPlanner_NoActionBar 0x7f11020c
+int style Theme_AIStudyPlanner_NoBar 0x7f11045f
 int style Theme_AIStudyPlanner_Splash 0x7f11020d
 int style Theme_AppCompat 0x7f11020e
 int style Theme_AppCompat_CompactMenu 0x7f11020f
